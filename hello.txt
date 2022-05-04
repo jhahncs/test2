@@ -3,4 +3,5 @@ hi
 world
 hahaha
 // For command line git tutorial
-// Local Repository modification
+// First: Github modification
+// Second: Local Repository modification
